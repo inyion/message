@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        webview.loadUrl("http://demo.drennote.com/");
+        webview.loadUrl("http://free.drennote.com/");
         webview.setWebViewClient(new FreeBagClient());
 
     }
