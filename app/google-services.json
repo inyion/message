@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024057807987",
+    "firebase_url": "https://freebag-25ddc.firebaseio.com",
+    "project_id": "freebag-25ddc",
+    "storage_bucket": "freebag-25ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024057807987:android:8a2b73a351d41404",
+        "android_client_info": {
+          "package_name": "com.avengers.freebag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024057807987-s7vkkhm3d48c7vckvmkvm3t2b4cdejqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avengers.freebag",
+            "certificate_hash": "c600c779b2b668be59df49d3df1f7f9d5fed66c1"
+          }
+        },
+        {
+          "client_id": "1024057807987-8gllgt1r8udl2erm7svpcen29n0bs934.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oer_B-72aZylOudr_PsOgSpuL6D6XCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024057807987-8gllgt1r8udl2erm7svpcen29n0bs934.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
